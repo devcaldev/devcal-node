@@ -1,0 +1,20 @@
+{
+  "name": "devcal",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "calendar",
+    "database",
+    "rrule"
+  ],
+  "author": "dev@devcal.dev",
+  "license": "SEE LICENSE IN LICENCE.md",
+  "description": "devcal node client",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.12.5",
+    "google-protobuf": "^3.21.4"
+  }
+}
