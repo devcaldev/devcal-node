@@ -7,7 +7,7 @@ devcal node client is a wrapper for devcal grpc node client which handles type c
 install devcal-node package
 
 ```sh
-npm install github.com/devcaldev/devcal-node
+npm install devcaldev/devcal-node
 ```
 
 initialize client
